@@ -1,6 +1,10 @@
 <b>Prj CashRegister</b> <br>
-Versione PHP 8.0.2<br>
-Laravel 9.2.0<br>
+<ul>
+    <li>Versione PHP 8.0.2</li>
+    <li>Laravel 9.2.0</li>
+    <li>Per eseguire il software: php artisan cash:Register fileCashRegister</li>
+    <li>Per eseguire i test: php artisan test --filter CashRegisterTest</li>
+</ul>
 
 
 
