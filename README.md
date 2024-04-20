@@ -1,3 +1,13 @@
+<b>Prj CashRegister</b> <br>
+<ul>
+    <li>Versione PHP 8.0.2</li>
+    <li>Laravel 9.2.0</li>
+    <li>Per eseguire il software: php artisan cash:Register fileCashRegister</li>
+    <li>Per eseguire i test: php artisan test --filter CashRegisterTest</li>
+</ul>
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
